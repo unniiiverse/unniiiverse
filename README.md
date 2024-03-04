@@ -52,9 +52,6 @@ These sites mostly built by Gulp assembler & presented only as study experience
 + Figma
 + Git, Github
 
-My contributions for begining of 2024 (most respo`s are private)
-![Contributions](./media/contributions.jpg)
-
 ## 📩 Contacts
 [CV on rabota.ua (Ukranian hiring site)](https://rabota.ua/ua/candidates/22371146) / [Linkedin](https://www.linkedin.com/in/mykhaillo-sliusar-54b45127a/)
 
