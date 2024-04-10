@@ -1,6 +1,8 @@
 # Hello 👋
 
-I am Mykhailo, Fullstack web developer from Ukraine
+I am Mykhailo, Fullstack web developer + (not my specialization, but UI/UX designer & DevOps) from Ukraine. I have more than 3 years of uncommerctial and 3 commercial months experience. Currently working on [animee.club](https://animee.club), my online cinema of anime on ukranian language.
+
+Can speak on Ukranian / russian languages fluently, English on B1+ - B2 level
 
 ## 🐇 Pet projects
 [animee.club](https://animee.club) - Watch anime on Ukranian language. Built with next & nodejs with MongoDB & served on Ubuntu machine with NGINX. Server logic covered by Jest tests
@@ -9,15 +11,17 @@ I am Mykhailo, Fullstack web developer from Ukraine
 
 [hash-image](https://github.com/unniiiverse/hash-image) - Blurred image placeholder for loading image
 
+[uvc-accordion](https://github.com/unniiiverse/uvc-accordion) - (INDEV) Flexible & ARIA-Accesible accordion component
+
 [opti conv](https://github.com/unniiiverse/optiConv) - Old GULP fonts/images converter to optimized for web formats (.ttf > .woff2, .png > .webp)
 
-[react-uvc](https://github.com/unniiiverse/react-uvc) - Deprecated. Modules will be re-built in furute (like hash-image). React components logic library. Includes form validation, tabs, burger, accordeon and more.
+[react-uvc](https://github.com/unniiiverse/react-uvc) - Deprecated. Modules will be re-built in future (like hash-image). React components logic library. Includes form validation, tabs, burger, accordeon and more.
 
 ## 💻 Featured sites
 [animee.club](https://animee.club) - Watch anime on Ukranian language.
 
 ## 👴 Old sites (<= 2023)
-These sites mostly built by Gulp assembler & presented only as study experience
+These sites mostly built by Gulp assembler, presented only as study experience
 
 [ABRouter](https://github.com/unniiiverse/abrouter_up-23) - Landing page, 2023
 
@@ -31,23 +35,27 @@ These sites mostly built by Gulp assembler & presented only as study experience
   + SASS(SCSS)
 + JS
   + TS
-+ Gulp, Webpack, Vite
-+ React, NextJS
++ Python (Basic+ knowledge)
++ Gulp, Webpack
++ React, NextJS, Vite
   + Redux
   + PWA
   + Websockets
   + Tailwind
+  + SSO authorization
 + NodeJS
   + Express
   + Websockets
   + Telegram bots
   + Puppeteer (Web parsing)
-  + TCP/UDP
-  + JWT & cookies authorization
+  + TCP/UDP sockets
+  + JWT, session & cookies authorization
+  + SSO authorization
+  + Jest / Supertest (express)
 + MongoDB, PostgreSQL
   + MongoSH
 + Linux / Ubuntu
-+ NGINX (basic knowledge), DNS
++ NGINX (basic knowledge), Cloudflare DNS
 + Docker
 + Figma
 + Git, Github
