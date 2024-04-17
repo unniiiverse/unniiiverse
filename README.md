@@ -61,6 +61,6 @@ These sites mostly built by Gulp assembler, presented only as study experience
 + Git, Github
 
 ## 📩 Contacts
-[CV on rabota.ua (Ukranian hiring site)](https://rabota.ua/ua/candidates/22371146) / [Linkedin](https://www.linkedin.com/in/mykhaillo-sliusar-54b45127a/)
+[CV on rabota.ua (Ukranian hiring site)](https://rabota.ua/ua/candidates/22371146) / [Linkedin](https://www.linkedin.com/in/unniiiverse/)
 
 [Telegram](https://t.me/unniiiverse) / [hire@animee.club](mailto:hire@animee.club)
