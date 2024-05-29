@@ -1,6 +1,6 @@
 # Hello 👋
 
-I am Mykhailo, Fullstack web developer + (not my specialization, but UI/UX designer & DevOps) from Ukraine. I have more than 3 years of uncommerctial and 3 commercial months experience. Currently working on [animee.club](https://animee.club), my online cinema of anime on ukranian language.
+I am Mykhailo, Fullstack web developer + (not my specialization, but UI/UX designer & DevOps) from Ukraine. I have more than 3 years of uncommerctial and 3 commercial months experience. Currently working on [animee.club](https://animee.club), my online cinema of anime on Ukranian language.
 
 Can speak on Ukranian / russian languages fluently, English on B1+ - B2 level
 
@@ -12,6 +12,8 @@ Can speak on Ukranian / russian languages fluently, English on B1+ - B2 level
 [hash-image](https://github.com/unniiiverse/hash-image) - Blurred image placeholder for loading image
 
 [uvc-accordion](https://github.com/unniiiverse/uvc-accordion) - (INDEV) Flexible & ARIA-Accesible accordion component
+
+[uvc-menu](https://github.com/unniiiverse/uvc-menu) - Simple react package for creating menus!
 
 [opti conv](https://github.com/unniiiverse/optiConv) - Old GULP fonts/images converter to optimized for web formats (.ttf > .woff2, .png > .webp)
 
