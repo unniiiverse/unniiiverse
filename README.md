@@ -1,6 +1,6 @@
 # Hello 👋
 
-I am Mykhailo, Fullstack web developer + (not my specialization, but UI/UX designer & DevOps) from Ukraine. I have more than 3 years of uncommerctial and 3 commercial months experience. Currently working on [animee.club](https://animee.club), my online cinema of anime on Ukranian language.
+I am Mykhailo, Fullstack web developer + (not my specialization, but UI/UX designer & DevOps) from Ukraine. I have more than 3 years of uncommerctial and 7+ commercial months experience. Currently working on [animee.club](https://animee.club), my online cinema of anime on Ukranian language.
 
 Can speak on Ukranian / russian languages fluently, English on B1+ - B2 level
 
