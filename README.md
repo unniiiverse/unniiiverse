@@ -1,14 +1,14 @@
 ![hello](./hello.png)
 
 Hello 👋 <br>
-I am Mykhailo, Fullstack Web Developer + (a little bit of UI/UX designer & DevOps Engineer) from Ukraine. Have more than 3 years of uncommercial and 9+ months of commercial development experience. Can speak on Ukrainian / russian fluently and English at B1+ level.
+I am Mykhailo, Fullstack Web Developer + (a little bit of UI/UX designer & DevOps Engineer) from Ukraine. Have more than 3 years of uncommercial and 9+ months of commercial development experience. Speak on Ukrainian / russian fluently, English at B1+ level.
 
 ## 🐇 Pet projects
 - [**yee-ts**](https://github.com/unniiiverse/yee-ts) - Npm package that implements Xiaomi Yeelight device API. Include discovering by local SSDP. Tested by Jest
 - [**fkw-popup**](https://github.com/fullkekw/fkw-popup) - Flexible React Popup Component that implements [WAI-ARIA Dialog pattern](https://www.w3.org/WAI/ARIA/apg/patterns/dialog-modal/)
+- [**fkw-menu**](https://github.com/fullkekw/fkw-menu) - React menu (dropdown) component written on Typescript. Compatible with Next & Vite!
 
 *Pending refactoring*
-- [**uvc-menu**](https://github.com/unniiiverse/uvc-menu) - Simple react package for creating menus!
 - [**uvc-accordion**](https://github.com/unniiiverse/uvc-accordion) - Flexible & ARIA-Accesible accordion component
 
 *Deprecated*
@@ -17,8 +17,8 @@ I am Mykhailo, Fullstack Web Developer + (a little bit of UI/UX designer & DevOp
 - [**hash-image**](https://github.com/unniiiverse/hash-image) - Blurred image placeholder for loading image
 
 ## 💻 Featured sites
-![animee.club](./featured-animee.jpg)
-[**animee.club**](https://animee.club) - Dive into anime on Ukrainian language! Online cinema of anime on Ukrainian language. Built with NextJS & Express
+![nekomi.club](./featured-nekomi.jpg)
+[**nekomi.club**](https://nekomi.club) - Dive into anime on Ukrainian language! Online anime cinema on Ukrainian language. Built on NextJS
 
 ## 👴 Old sites (<= 2023)
 These sites mostly built with Gulp and presented only as study experience
