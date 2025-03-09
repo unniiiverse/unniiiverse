@@ -1,7 +1,14 @@
 ![hello](./hello.png)
 
-Hello 👋 <br>
-I am Mykhailo, Fullstack Web Developer + (a little bit UI/UX designer & DevOps Engineer) from Ukraine. Have more than 3 years of studying and 9+ months of commercial development experience. Speak on Ukrainian / russian fluently, English at B1+ level.
+👋 Mykhailo, Fullstack Web Developer from Ukraine. Speak on Ukranian natively, russian fluently, English (a little bit messy 🐈). <br>
+✒️ Can design websites (hello nekomi.club 😽), logos (hello @fullkekw 😼) and other stuff that can be made in figma :) <br>
+🖥️ Also, fully setup a linux machine, that can handle HTTP requests via nginx, give them responses via express, proxy them both via Cloudflare and serve a minecraft server 🎉
+
+
+
+## 💻 Featured projects
+![nekomi.club](./featured-nekomi.jpg)
+[**nekomi.club**](https://nekomi.club) - Online anime cinema built with NextJS & TailwindCSS
 
 ## 🐇 Pet projects
 - [**fkw-popup**](https://github.com/fullkekw/fkw-popup) - React Popup component written on Typescript. Compatible with Next & Vite!
@@ -9,47 +16,47 @@ I am Mykhailo, Fullstack Web Developer + (a little bit UI/UX designer & DevOps E
 - [**fkw-accordion**](https://github.com/fullkekw/fkw-accordion) - React accordion typescript component. Compatible with nextjs & vite!
 - [**yee-ts**](https://github.com/unniiiverse/yee-ts) - Npm package that implements Xiaomi Yeelight device API. Include discovering by local SSDP. Tested by Jest
 
-## 💻 Featured
-![nekomi.club](./featured-nekomi.jpg)
-[**nekomi.club**](https://nekomi.club) - Online anime cinema built with NextJS and express fro API
-
 ## 👴 Old sites (<= 2023)
-These sites mostly built with Gulp and presented only as study experience
+These you can find in my archived repos, they also have url to visit! 😉
 
-- [ABRouter](https://github.com/unniiiverse/abrouter_up-23) - Landing page, 2023
-- [Berryland](https://github.com/unniiiverse/berryland_up-22) - E-commerce, 2022
-- [Dietolog Online](https://github.com/unniiiverse/dietologOnline_up-22) - Landing page, 2022
-
-## 👨‍💻 Tech stack
-+ HTML
-+ CSS
-  + SASS(SCSS)
-+ JS
-  + TS
-+ Python (Basic knowledge)
-+ Gulp, Webpack
+## 👨‍💻 Tech stack (or what I have learned through years)
++ Javascript, Typescript
 + React, NextJS, Vite
   + Redux
   + PWA
   + Websockets
-  + Tailwind
+  + TailwindCSS
   + SSO authorization
 + NodeJS
   + Express
   + Websockets
   + Telegram bots
   + Puppeteer (Web parsing)
-  + TCP/UDP sockets
-  + JWT, session, cookie & SSO authorization
+  + TCP / UDP sockets
+  + JWT, bcrypt, session, cookie & SSO authorization
   + Jest / Supertest (express)
-+ MongoDB, PostgreSQL
-+ Linux / Ubuntu
-+ NGINX (Basic knowledge), Cloudflare DNS
-+ Docker
+  + ffmpeg, video2x, creating subtitles via OpenAI transctibe
+  + microservices
 + Figma
 + Git, Github
++ MongoDB, PostgreSQL
++ HTML
++ Python, C++ (a little bit)
++ Gulp, Webpack
++ Linux, Ubuntu
++ Nginx
++ pm2, screen
++ Cloudflare DNS
++ Docker
++ CSS
+  + SASS(SCSS)
 
 ## 📩 Contacts
-[Linkedin](https://www.linkedin.com/in/unniiiverse/)
+About me? Like number 7, black on white, pretty fonts, red and blue and purple colors, Borderline by Tame Impala, nekomi.club and cute cats
 
-[Telegram](https://t.me/unniiiverse) / [unniiiverse@gmail.com](mailto:unniiiverse@gmail.com)
+[Linkedin](https://www.linkedin.com/in/unniiiverse/) (as old as 🦖)
+
+[Telegram](https://t.me/unniiiverse) (primary contact method) / [unniiiverse@gmail.com](mailto:unniiiverse@gmail.com)
+
+
+42 - meaning of life © The Hitchhiker's Guide to the Galaxy, 2005
