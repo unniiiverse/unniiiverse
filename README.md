@@ -1,6 +1,6 @@
 ![hello](./hello.png)
 
-👋 Mykhailo, Fullstack Web Developer from Ukraine. Speak on Ukranian natively, russian fluently, English (a little bit messy 🐈). <br>
+👋 Mykhailo, Middle Fullstack Web Developer & Web Software Engineer from Ukraine, have more than 2 years of commercial experience 💸. Speak on Ukranian natively, russian fluently, English (a little bit messy 🐈). <br>
 ✒️ Can design websites (hello nekomi.club 😽), logos (hello @fullkekw 😼) and other stuff that can be made in figma :) <br>
 🖥️ Also, fully setup a linux machine, that can handle HTTP requests via nginx, give them responses via express, proxy them both via Cloudflare and serve a minecraft server 🎉
 
@@ -36,15 +36,15 @@ These you can find in my archived repos, they also have url to visit! 😉
   + JWT, bcrypt, session, cookie & SSO authorization
   + Jest / Supertest (express)
   + ffmpeg, video2x, creating subtitles via OpenAI transctibe
-  + microservices
+  + Microservice architecture
 + Figma
-+ Git, Github
++ Git, Github, Github Actions
++ CI & CD pipelines
 + MongoDB, PostgreSQL
 + HTML
 + Python, C++ (a little bit)
-+ Gulp, Webpack
 + Linux, Ubuntu
-+ Nginx
++ nginx
 + pm2, screen
 + Cloudflare DNS
 + Docker
