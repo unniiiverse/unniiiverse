@@ -1,17 +1,17 @@
 ![hello](./hello.png)
 
 👋 Mykhailo, Middle Fullstack Web Developer & Web Software Engineer from Ukraine, have more than 2 years of commercial experience 💸. Speak on Ukranian natively, russian fluently, English (a little bit messy 🐈). <br>
-✒️ Can design websites (hello nekomi.club 😽), logos (hello @fullkekw 😼) and other stuff that can be made in figma :) <br>
+✒️ Design websites (hello nekomi.club 😽), logos (hello @fullkekw 😼) and other stuff that can be made in figma :) <br>
 🖥️ Also, fully setup a linux machine, that can handle HTTP requests via nginx, give them responses via express, proxy them both via Cloudflare and serve a minecraft server 🎉
 
 
 
 ## 💻 Featured projects
 ![nekomi.club](./featured-nekomi.jpg)
-[**nekomi.club**](https://nekomi.club) - Online anime cinema built with NextJS & TailwindCSS
+[**nekomi.club**](https://nekomi.club) - Solo project as a software engineer. API written on express, client on NextJS + TailwindCSS, hosted on VPS with cloudflare proxy
 
 ## 🐇 Pet projects
-- [**fkw-popup**](https://github.com/fullkekw/fkw-popup) - React Popup component written on Typescript. Compatible with Next & Vite!
+- [**popup**](https://github.com/fullkekw/popup) - Headless popup component for React with built-in typescript types!
 - [**fkw-menu**](https://github.com/fullkekw/fkw-menu) - React menu (dropdown) component written on Typescript. Compatible with Next & Vite!
 - [**fkw-accordion**](https://github.com/fullkekw/fkw-accordion) - React accordion typescript component. Compatible with nextjs & vite!
 - [**yee-ts**](https://github.com/unniiiverse/yee-ts) - Npm package that implements Xiaomi Yeelight device API. Include discovering by local SSDP. Tested by Jest
@@ -37,19 +37,19 @@ These you can find in my archived repos, they also have url to visit! 😉
   + Jest / Supertest (express)
   + ffmpeg, video2x, creating subtitles via OpenAI transctibe
   + Microservice architecture
-+ Figma
 + Git, Github, Github Actions
 + CI & CD pipelines
 + MongoDB, PostgreSQL
++ Figma
++ Grafana, Prometheus
 + HTML
 + Python, C++ (a little bit)
 + Linux, Ubuntu
 + nginx
 + pm2, screen
 + Cloudflare DNS
-+ Docker
-+ CSS
-  + SASS(SCSS)
++ Docker, docker-compose
++ CSS, SCSS
 
 ## 📩 Contacts
 About me? Like number 7, black on white, pretty fonts, red and blue and purple colors, Borderline by Tame Impala, nekomi.club and cute cats
