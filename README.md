@@ -39,6 +39,7 @@ These you can find in my archived repos, they also have url to visit! 😉
   + Microservice architecture
 + Git, Github, Github Actions
 + CI & CD pipelines
++ RTMP, SLS live streaming
 + MongoDB, PostgreSQL
 + Figma
 + Grafana, Prometheus
