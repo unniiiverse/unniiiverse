@@ -33,31 +33,27 @@ These you can find in my archived repos, they also have url to visit! 😉
   + Telegram bots
   + Puppeteer (Web parsing)
   + TCP / UDP sockets
-  + JWT, bcrypt, session, cookie & SSO authorization
+  + JWT, bcrypt, session, cookie & SSO authorization, RBAC
   + Jest / Supertest (express)
   + ffmpeg, video2x, creating subtitles via OpenAI transctibe
   + Microservice architecture
-+ Git, Github, Github Actions
++ Git, Github, Github Actions, npm
 + CI & CD pipelines
 + RTMP, SLS live streaming
 + MongoDB, PostgreSQL
 + Figma
 + Grafana, Prometheus
-+ HTML
 + Python, C++ (a little bit)
 + Linux, Ubuntu
-+ nginx
-+ pm2, screen
-+ Cloudflare DNS
++ Nginx, pm2, screen, certbot
++ Cloudflare, AWS, EC2, S3
 + Docker, docker-compose
-+ CSS, SCSS
++ HTML, CSS, SCSS
 
 ## 📩 Contacts
 About me? Like number 7, black on white, pretty fonts, red and blue and purple colors, Borderline by Tame Impala, nekomi.club and cute cats
 
-[Linkedin](https://www.linkedin.com/in/unniiiverse/) (as old as 🦖)
-
-[Telegram](https://t.me/unniiiverse) (primary contact method) / [unniiiverse@gmail.com](mailto:unniiiverse@gmail.com)
+[Telegram](https://t.me/unniiiverse) (you will recieve the fastest response possible) | [Linkedin](https://www.linkedin.com/in/unniiiverse/) | [unniiiverse@gmail.com](mailto:unniiiverse@gmail.com) (you won't probably recieve the response)
 
 
 42 - meaning of life © The Hitchhiker's Guide to the Galaxy, 2005
