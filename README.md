@@ -1,59 +1,48 @@
 ![hello](./hello.png)
 
-👋 Mykhailo, Middle Fullstack Web Developer & Web Software Engineer from Ukraine, have more than 2 years of commercial experience 💸. Speak on Ukranian natively, russian fluently, English (a little bit messy 🐈). <br>
-✒️ Design websites (hello nekomi.club 😽), logos (hello @fullkekw 😼) and other stuff that can be made in figma :) <br>
-🖥️ Also, fully setup a linux machine, that can handle HTTP requests via nginx, give them responses via express, proxy them both via Cloudflare and serve a minecraft server 🎉
+👋 Mykhailo - Web Software Engineer from Ukraine, with 2+ years of commercial experience 💸. Native Ukrainian, fluent Russian, conversational English 🐈
+
+✒️ Design anything that can be made in Figma (websites, logos, etc)
+
+🖥️ Self-host on a fully configured Linux machine: Nginx for HTTP, Express for responses, Cloudflare as proxy, and a Minecraft server on top 🍒
 
 
 
-## 💻 Featured projects
-![nekomi.club](./featured-nekomi.jpg)
-[**nekomi.club**](https://nekomi.club) - Solo project as a software engineer. API written on express, client on NextJS + TailwindCSS, hosted on VPS with cloudflare proxy
+## 💻 Featured
+![nekomi.club](./nekomi.png)
+🐈 [**nekomi.club**](https://nekomi.club) - API built with NodeJS and Express, client with Next.js, hosted on a VPS behind Cloudflare.
 
-## 🐇 Pet projects
-- [**popup**](https://github.com/fullkekw/popup) - Headless popup component for React with built-in typescript types!
-- [**fkw-menu**](https://github.com/fullkekw/fkw-menu) - React menu (dropdown) component written on Typescript. Compatible with Next & Vite!
-- [**fkw-accordion**](https://github.com/fullkekw/fkw-accordion) - React accordion typescript component. Compatible with nextjs & vite!
-- [**yee-ts**](https://github.com/unniiiverse/yee-ts) - Npm package that implements Xiaomi Yeelight device API. Include discovering by local SSDP. Tested by Jest
+- [**🗨️ React modal**](https://github.com/nekomiclub/neko-popup) - The best modal package ever seen
+- [**🪗 React accordion**](https://github.com/fullkekw/accordion) - Package for stacked accordion items
+- [**🔗 React context menu**](http://github.com/fullkekw/fkw-menu) - Package for any taste menu (context, dropdown)
+- [**🎭 React material symbols**](https://github.com/nekomiclub/material-symbols-rc) - Cool react wrapper for Google Material Symbols package
+- [**💡 Yeelight agent**](https://github.com/unniiiverse/yee-ts) - Nodejs + TS implementation of Yeelight bulb API
 
-## 👴 Old sites (<= 2023)
-These you can find in my archived repos, they also have url to visit! 😉
-
-## 👨‍💻 Tech stack (or what I have learned through years)
-+ Javascript, Typescript
-+ React, NextJS, Vite
-  + Redux
-  + PWA
-  + Websockets
-  + TailwindCSS
-  + SSO authorization
-+ NodeJS
-  + Express
-  + Websockets
-  + Telegram bots
-  + Puppeteer (Web parsing)
-  + TCP / UDP sockets
-  + JWT, bcrypt, session, cookie & SSO authorization, RBAC
-  + Jest / Supertest (express)
-  + ffmpeg, video2x, creating subtitles via OpenAI transctibe
-  + Microservice architecture
-+ Git, Github, Github Actions, npm
-+ CI & CD pipelines
-+ RTMP, SLS live streaming
-+ MongoDB, PostgreSQL
-+ Figma
-+ Grafana, Prometheus
-+ Python, C++ (a little bit)
-+ Linux, Ubuntu
-+ Nginx, pm2, screen, certbot
-+ Cloudflare, AWS, EC2, S3
-+ Docker, docker-compose
-+ HTML, CSS, SCSS
+## 👨‍💻 Skills
+- JS, TS
+- React, NextJS, Vite
+  - 🧱 FSD architecture, SOLID
+  - 🦠 Redux, PWA, Websockets, SCSS, TailwindCSS
+  - 🔐 SSO authorization
+- NodeJS
+  - 🧱 Microservices, Onion architecture
+  - 🔌 HTTP, TCP / UDP sockets. Express, Websockets
+  - 🤖 Telegram bots
+  - 📃 Web scrapping (puppeteer)
+  - 🔐 Authorization: JWT, bcrypt, session, cookie, SSO authorization. RBAC
+  - 🧪 Jest, Vitest, Supertest
+  - 📽️ ffmpeg, video2x, openai whisper & chatgpt
+- Git, Github, Github Actions (CI/CD pipelines)
+- npm, pnpm, yarn
+- RTMP, SLS live streaming
+- MongoDB
+- Figma
+- Grafana, Prometheus
+- Linux, Ubuntu, nginx, pm2 
+- Cloudflare DNS, AWS, EC2, S3
+- Docker
 
 ## 📩 Contacts
-About me? Like number 7, black on white, pretty fonts, red and blue and purple colors, Borderline by Tame Impala, nekomi.club and cute cats
+[Telegram](https://t.me/unniiiverse) | [Linkedin](https://www.linkedin.com/in/unniiiverse/)
 
-[Telegram](https://t.me/unniiiverse) (you will recieve the fastest response possible) | [Linkedin](https://www.linkedin.com/in/unniiiverse/) | [unniiiverse@gmail.com](mailto:unniiiverse@gmail.com) (you won't probably recieve the response)
-
-
-42 - meaning of life © The Hitchhiker's Guide to the Galaxy, 2005
+*42 - meaning of life © The Hitchhiker's Guide to the Galaxy, 2005*
